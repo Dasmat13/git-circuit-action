@@ -1,0 +1,38 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Copy this file to YOUR PROFILE REPO:
+#   Dasmat13/Dasmat13/.github/workflows/circuit.yml
+#
+# Then add this to your profile README.md:
+#   ![GitCircuit](https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/circuit.svg)
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: GitCircuit — Update Profile
+
+on:
+  schedule:
+    - cron: '0 20 * * *'   # Runs daily at 20:00 UTC
+  workflow_dispatch:         # Allow manual trigger
+
+jobs:
+  circuit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitCircuit SVG
+        uses: Dasmat13/git-circuit-action@main
+        with:
+          github_user_name: ${{ github.actor }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/circuit.svg
+
+      - name: Commit & Push SVG
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/circuit.svg
+          git diff --cached --quiet || git commit -m "⚡ Update GitCircuit [$(date +'%Y-%m-%d')]"
+          git push
