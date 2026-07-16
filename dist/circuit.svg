@@ -201,6 +201,21 @@
       <rect x="62" y="-2" width="6" height="14" fill="#111" rx="0.5"/>
     </g>
   
+  
+    <g transform="translate(692, 98)">
+      <!-- Ribbon base -->
+      <rect x="0" y="0" width="64" height="10" fill="#2c3e50" rx="1"/>
+      <!-- Striped wires inside ribbon -->
+      <line x1="4" y1="0" x2="4" y2="10" stroke="#e74c3c" stroke-width="1.5"/>
+      <line x1="10" y1="0" x2="10" y2="10" stroke="#ecf0f1" stroke-width="1.5"/>
+      <line x1="16" y1="0" x2="16" y2="10" stroke="#3498db" stroke-width="1.5"/>
+      <line x1="22" y1="0" x2="22" y2="10" stroke="#f1c40f" stroke-width="1.5"/>
+      <line x1="28" y1="0" x2="28" y2="10" stroke="#2ecc71" stroke-width="1.5"/>
+      <!-- Connector endpoints -->
+      <rect x="-2" y="-2" width="6" height="14" fill="#111" rx="0.5"/>
+      <rect x="60" y="-2" width="6" height="14" fill="#111" rx="0.5"/>
+    </g>
+  
 
   <!-- Mounted Components (Resistors, Chips, etc.) -->
   <g class="component"><line x1="1.5" y1="190" x2="1.5" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="2.800699300699301" y1="190" x2="2.800699300699301" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="4.101398601398602" y1="190" x2="4.101398601398602" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="5.402097902097902" y1="190" x2="5.402097902097902" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="6.7027972027972025" y1="190" x2="6.7027972027972025" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="8.003496503496503" y1="190" x2="8.003496503496503" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="9.304195804195803" y1="190" x2="9.304195804195803" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="10.604895104895105" y1="190" x2="10.604895104895105" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="11.905594405594405" y1="190" x2="11.905594405594405" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="13.206293706293705" y1="190" x2="13.206293706293705" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="14.506993006993007" y1="190" x2="14.506993006993007" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="15.807692307692307" y1="190" x2="15.807692307692307" y2="198" stroke="#bdc3c7" stroke-width="1"/>
@@ -213,14 +228,14 @@
         style="animation-delay:0.0s"/>
     </g>
   <g class="component"><line x1="18.807692307692307" y1="190" x2="18.807692307692307" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="20.85164835164835" y1="190" x2="20.85164835164835" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="22.895604395604394" y1="190" x2="22.895604395604394" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="24.939560439560438" y1="190" x2="24.939560439560438" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="26.983516483516482" y1="190" x2="26.983516483516482" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="29.027472527472526" y1="190" x2="29.027472527472526" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="31.07142857142857" y1="190" x2="31.07142857142857" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="33.11538461538461" y1="190" x2="33.11538461538461" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="20.96153846153846" y="198" width="10" height="50" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
+        <rect x="20.96153846153846" y="198" width="10" height="49" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
         <line x1="25.96153846153846" y1="198" x2="25.96153846153846" y2="201" stroke="#111" stroke-width="1.5"/> <!-- pin 1 notch -->
-        <rect x="21.96153846153846" y="213" width="8" height="20" fill="#1abc9c" opacity="0.8"/>
+        <rect x="21.96153846153846" y="212.7" width="8" height="19.6" fill="#1abc9c" opacity="0.8"/>
       </g>
   <g class="component"><line x1="36.11538461538461" y1="190" x2="36.11538461538461" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="38.15934065934066" y1="190" x2="38.15934065934066" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="40.2032967032967" y1="190" x2="40.2032967032967" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="42.247252747252745" y1="190" x2="42.247252747252745" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="44.29120879120879" y1="190" x2="44.29120879120879" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="46.33516483516483" y1="190" x2="46.33516483516483" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="48.379120879120876" y1="190" x2="48.379120879120876" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="50.42307692307692" y1="190" x2="50.42307692307692" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="38.26923076923077" y="198" width="10" height="48" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
+        <rect x="38.26923076923077" y="198" width="10" height="47" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
         <line x1="43.26923076923077" y1="198" x2="43.26923076923077" y2="201" stroke="#111" stroke-width="1.5"/> <!-- pin 1 notch -->
-        <rect x="39.26923076923077" y="212.4" width="8" height="19.200000000000003" fill="#1abc9c" opacity="0.8"/>
+        <rect x="39.26923076923077" y="212.1" width="8" height="18.8" fill="#1abc9c" opacity="0.8"/>
       </g>
   <g class="component"><line x1="53.42307692307692" y1="190" x2="53.42307692307692" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="60.57692307692307" y1="190" x2="60.57692307692307" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="67.73076923076923" y1="190" x2="67.73076923076923" y2="198" stroke="#bdc3c7" stroke-width="1"/>
         <path d="M 55.57692307692307,198 L 65.57692307692307,198 L 65.57692307692307,233 C 65.57692307692307,237 55.57692307692307,237 55.57692307692307,233 Z" fill="#111" stroke="#333" stroke-width="0.5"/>
@@ -264,11 +279,11 @@
         <rect x="246.96153846153845" y="211.5" width="8" height="18" fill="#00d2ff" opacity="0.8"/>
       </g>
   <g class="component"><line x1="261.1153846153846" y1="190" x2="261.1153846153846" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="275.4230769230769" y1="190" x2="275.4230769230769" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="265.2692307692307" y="198" width="6" height="23" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
+        <rect x="265.2692307692307" y="198" width="6" height="22" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
         <!-- Resistor Color Bands -->
-        <rect x="265.2692307692307" y="202.6" width="6" height="2" fill="#c0392b"/>
-        <rect x="265.2692307692307" y="209.5" width="6" height="2" fill="#f1c40f"/>
-        <rect x="265.2692307692307" y="214.1" width="6" height="2" fill="#27ae60"/>
+        <rect x="265.2692307692307" y="202.4" width="6" height="2" fill="#c0392b"/>
+        <rect x="265.2692307692307" y="209" width="6" height="2" fill="#f1c40f"/>
+        <rect x="265.2692307692307" y="213.4" width="6" height="2" fill="#27ae60"/>
       </g>
   
   
@@ -280,11 +295,11 @@
   
   
   <g class="component"><line x1="434.1923076923077" y1="190" x2="434.1923076923077" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="448.5" y1="190" x2="448.5" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="438.3461538461538" y="198" width="6" height="23" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
+        <rect x="438.3461538461538" y="198" width="6" height="22" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
         <!-- Resistor Color Bands -->
-        <rect x="438.3461538461538" y="202.6" width="6" height="2" fill="#c0392b"/>
-        <rect x="438.3461538461538" y="209.5" width="6" height="2" fill="#f1c40f"/>
-        <rect x="438.3461538461538" y="214.1" width="6" height="2" fill="#27ae60"/>
+        <rect x="438.3461538461538" y="202.4" width="6" height="2" fill="#c0392b"/>
+        <rect x="438.3461538461538" y="209" width="6" height="2" fill="#f1c40f"/>
+        <rect x="438.3461538461538" y="213.4" width="6" height="2" fill="#27ae60"/>
       </g>
   <g class="component"><line x1="451.5" y1="190" x2="451.5" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="465.8076923076923" y1="190" x2="465.8076923076923" y2="198" stroke="#bdc3c7" stroke-width="1"/>
         <rect x="455.65384615384613" y="198" width="6" height="30" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
@@ -314,11 +329,11 @@
         style="animation-delay:0.8s"/>
     </g>
   <g class="component"><line x1="641.8846153846154" y1="190" x2="641.8846153846154" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="656.1923076923076" y1="190" x2="656.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="646.0384615384615" y="198" width="6" height="23" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
+        <rect x="646.0384615384615" y="198" width="6" height="22" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
         <!-- Resistor Color Bands -->
-        <rect x="646.0384615384615" y="202.6" width="6" height="2" fill="#c0392b"/>
-        <rect x="646.0384615384615" y="209.5" width="6" height="2" fill="#f1c40f"/>
-        <rect x="646.0384615384615" y="214.1" width="6" height="2" fill="#27ae60"/>
+        <rect x="646.0384615384615" y="202.4" width="6" height="2" fill="#c0392b"/>
+        <rect x="646.0384615384615" y="209" width="6" height="2" fill="#f1c40f"/>
+        <rect x="646.0384615384615" y="213.4" width="6" height="2" fill="#27ae60"/>
       </g>
   <g class="component"><line x1="659.1923076923076" y1="190" x2="659.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="660.4930069930069" y1="190" x2="660.4930069930069" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="661.7937062937062" y1="190" x2="661.7937062937062" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="663.0944055944055" y1="190" x2="663.0944055944055" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="664.3951048951049" y1="190" x2="664.3951048951049" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="665.6958041958042" y1="190" x2="665.6958041958042" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="666.9965034965035" y1="190" x2="666.9965034965035" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="668.2972027972028" y1="190" x2="668.2972027972028" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="669.5979020979021" y1="190" x2="669.5979020979021" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="670.8986013986013" y1="190" x2="670.8986013986013" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="672.1993006993006" y1="190" x2="672.1993006993006" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="673.4999999999999" y1="190" x2="673.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
         <rect x="659.3461538461538" y="198" width="14" height="59" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
@@ -369,11 +384,11 @@
         style="animation-delay:1.3s"/>
     </g>
   <g class="component"><line x1="814.9615384615385" y1="190" x2="814.9615384615385" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="829.2692307692307" y1="190" x2="829.2692307692307" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="819.1153846153846" y="198" width="6" height="23" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
+        <rect x="819.1153846153846" y="198" width="6" height="22" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
         <!-- Resistor Color Bands -->
-        <rect x="819.1153846153846" y="202.6" width="6" height="2" fill="#c0392b"/>
-        <rect x="819.1153846153846" y="209.5" width="6" height="2" fill="#f1c40f"/>
-        <rect x="819.1153846153846" y="214.1" width="6" height="2" fill="#27ae60"/>
+        <rect x="819.1153846153846" y="202.4" width="6" height="2" fill="#c0392b"/>
+        <rect x="819.1153846153846" y="209" width="6" height="2" fill="#f1c40f"/>
+        <rect x="819.1153846153846" y="213.4" width="6" height="2" fill="#27ae60"/>
       </g>
   <g class="component"><line x1="832.2692307692307" y1="190" x2="832.2692307692307" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="834.3131868131868" y1="190" x2="834.3131868131868" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="836.3571428571428" y1="190" x2="836.3571428571428" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="838.4010989010989" y1="190" x2="838.4010989010989" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="840.4450549450548" y1="190" x2="840.4450549450548" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="842.4890109890109" y1="190" x2="842.4890109890109" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="844.532967032967" y1="190" x2="844.532967032967" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="846.576923076923" y1="190" x2="846.576923076923" y2="198" stroke="#bdc3c7" stroke-width="1"/>
         <rect x="834.4230769230769" y="198" width="10" height="45" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
@@ -396,7 +411,7 @@
         <rect x="867.0384615384615" y="198" width="14" height="90" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
         <rect x="869.0384615384615" y="200" width="10" height="86" fill="#0d0e0f" rx="1"/>
         <!-- Core silicon dye -->
-        <rect x="872.0384615384615" y="234" width="4" height="6" fill="#e67e22" filter="url(#neon-glow)"/>
+        <rect x="872.0384615384615" y="234" width="4" height="6" fill="#9b59b6" filter="url(#neon-glow)"/>
       
       <circle class="led" cx="874.0384615384615" cy="211.5" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:0.0s"/>
@@ -405,7 +420,7 @@
         <rect x="884.3461538461538" y="198" width="14" height="80" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
         <rect x="886.3461538461538" y="200" width="10" height="76" fill="#0d0e0f" rx="1"/>
         <!-- Core silicon dye -->
-        <rect x="889.3461538461538" y="230" width="4" height="6" fill="#e67e22" filter="url(#neon-glow)"/>
+        <rect x="889.3461538461538" y="230" width="4" height="6" fill="#00d2ff" filter="url(#neon-glow)"/>
       
       <circle class="led" cx="891.3461538461538" cy="210" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:0.3s"/>
@@ -484,13 +499,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 485 units
+      ⚡ Dasmat13's Core · 523 units
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      CLK: 103 MHz · STREAK: 12d
+      CLK: 103 MHz · STREAK: 13d
     </text>
   </g>
 
