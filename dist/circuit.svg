@@ -431,10 +431,14 @@
       <circle class="led" cx="874.0384615384615" cy="210" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:0.0s"/>
     </g>
-  <g class="component"><line x1="884.1923076923076" y1="190" x2="884.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="891.3461538461538" y1="190" x2="891.3461538461538" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="898.4999999999999" y1="190" x2="898.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <path d="M 886.3461538461538,198 L 896.3461538461538,198 L 896.3461538461538,237 C 896.3461538461538,241 886.3461538461538,241 886.3461538461538,237 Z" fill="#111" stroke="#333" stroke-width="0.5"/>
-        <rect x="887.3461538461538" y="200" width="8" height="2" fill="#00d2ff"/>
-      </g>
+  <g class="component"><line x1="884.1923076923076" y1="190" x2="884.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="886.2362637362637" y1="190" x2="886.2362637362637" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="888.2802197802197" y1="190" x2="888.2802197802197" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="890.3241758241758" y1="190" x2="890.3241758241758" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="892.3681318681317" y1="190" x2="892.3681318681317" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="894.4120879120878" y1="190" x2="894.4120879120878" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="896.4560439560439" y1="190" x2="896.4560439560439" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="898.4999999999999" y1="190" x2="898.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
+        <rect x="886.3461538461538" y="198" width="10" height="45" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
+        <line x1="891.3461538461538" y1="198" x2="891.3461538461538" y2="201" stroke="#111" stroke-width="1.5"/> <!-- pin 1 notch -->
+        <rect x="887.3461538461538" y="211.5" width="8" height="18" fill="#3498db" opacity="0.8"/>
+      
+      <circle class="led" cx="891.3461538461538" cy="204.75" r="2" fill="#10ac84" filter="url(#neon-glow)"
+        style="animation-delay:0.3s"/>
+    </g>
 
   <!-- Side Power Level LED Bar (Contribution Streak) -->
   
@@ -509,7 +513,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 542 units
+      ⚡ Dasmat13's Core · 548 units
     </text>
   </g>
   <g>
