@@ -435,12 +435,9 @@
       <circle class="led" cx="874.0384615384615" cy="207.6" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:0.0s"/>
     </g>
-  <g class="component"><line x1="884.1923076923076" y1="190" x2="884.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="898.4999999999999" y1="190" x2="898.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="888.3461538461538" y="198" width="6" height="30" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
-        <!-- Resistor Color Bands -->
-        <rect x="888.3461538461538" y="204" width="6" height="2" fill="#c0392b"/>
-        <rect x="888.3461538461538" y="213" width="6" height="2" fill="#f1c40f"/>
-        <rect x="888.3461538461538" y="219" width="6" height="2" fill="#27ae60"/>
+  <g class="component"><line x1="884.1923076923076" y1="190" x2="884.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="891.3461538461538" y1="190" x2="891.3461538461538" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="898.4999999999999" y1="190" x2="898.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
+        <path d="M 886.3461538461538,198 L 896.3461538461538,198 L 896.3461538461538,237 C 896.3461538461538,241 886.3461538461538,241 886.3461538461538,237 Z" fill="#111" stroke="#333" stroke-width="0.5"/>
+        <rect x="887.3461538461538" y="200" width="8" height="2" fill="#00d2ff"/>
       </g>
 
   <!-- Side Power Level LED Bar (Contribution Streak) -->
@@ -516,13 +513,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 596 units
+      ⚡ Dasmat13's Core · 602 units
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      CLK: 109 MHz · STREAK: 0d
+      CLK: 109 MHz · STREAK: 3d
     </text>
   </g>
 
