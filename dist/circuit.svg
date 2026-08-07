@@ -422,21 +422,21 @@
         style="animation-delay:1.9s"/>
     </g>
   <g class="component"><line x1="849.576923076923" y1="190" x2="849.576923076923" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="850.8776223776223" y1="190" x2="850.8776223776223" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="852.1783216783216" y1="190" x2="852.1783216783216" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="853.4790209790209" y1="190" x2="853.4790209790209" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="854.7797202797202" y1="190" x2="854.7797202797202" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="856.0804195804195" y1="190" x2="856.0804195804195" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="857.3811188811188" y1="190" x2="857.3811188811188" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="858.6818181818181" y1="190" x2="858.6818181818181" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="859.9825174825174" y1="190" x2="859.9825174825174" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="861.2832167832166" y1="190" x2="861.2832167832166" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="862.5839160839159" y1="190" x2="862.5839160839159" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="863.8846153846152" y1="190" x2="863.8846153846152" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="849.7307692307692" y="198" width="14" height="64" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
-        <rect x="851.7307692307692" y="200" width="10" height="60" fill="#0d0e0f" rx="1"/>
+        <rect x="849.7307692307692" y="198" width="14" height="72" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
+        <rect x="851.7307692307692" y="200" width="10" height="68" fill="#0d0e0f" rx="1"/>
         <!-- Core silicon dye -->
-        <rect x="854.7307692307692" y="223.6" width="4" height="6" fill="#e67e22" filter="url(#neon-glow)"/>
+        <rect x="854.7307692307692" y="226.8" width="4" height="6" fill="#00d2ff" filter="url(#neon-glow)"/>
       
-      <circle class="led" cx="856.7307692307692" cy="207.6" r="2" fill="#10ac84" filter="url(#neon-glow)"
+      <circle class="led" cx="856.7307692307692" cy="208.8" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:2.2s"/>
     </g>
   <g class="component"><line x1="866.8846153846154" y1="190" x2="866.8846153846154" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="868.1853146853147" y1="190" x2="868.1853146853147" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="869.486013986014" y1="190" x2="869.486013986014" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="870.7867132867133" y1="190" x2="870.7867132867133" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="872.0874125874126" y1="190" x2="872.0874125874126" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="873.3881118881119" y1="190" x2="873.3881118881119" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="874.6888111888112" y1="190" x2="874.6888111888112" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="875.9895104895105" y1="190" x2="875.9895104895105" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="877.2902097902098" y1="190" x2="877.2902097902098" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="878.590909090909" y1="190" x2="878.590909090909" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="879.8916083916083" y1="190" x2="879.8916083916083" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="881.1923076923076" y1="190" x2="881.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="867.0384615384615" y="198" width="14" height="53" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
-        <rect x="869.0384615384615" y="200" width="10" height="49" fill="#0d0e0f" rx="1"/>
+        <rect x="867.0384615384615" y="198" width="14" height="60" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
+        <rect x="869.0384615384615" y="200" width="10" height="56" fill="#0d0e0f" rx="1"/>
         <!-- Core silicon dye -->
-        <rect x="872.0384615384615" y="219.2" width="4" height="6" fill="#00d2ff" filter="url(#neon-glow)"/>
+        <rect x="872.0384615384615" y="222" width="4" height="6" fill="#00d2ff" filter="url(#neon-glow)"/>
       
-      <circle class="led" cx="874.0384615384615" cy="205.95" r="2" fill="#10ac84" filter="url(#neon-glow)"
+      <circle class="led" cx="874.0384615384615" cy="207" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:0.0s"/>
     </g>
   <g class="component"><line x1="884.1923076923076" y1="190" x2="884.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="885.4930069930069" y1="190" x2="885.4930069930069" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="886.7937062937062" y1="190" x2="886.7937062937062" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="888.0944055944055" y1="190" x2="888.0944055944055" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="889.3951048951049" y1="190" x2="889.3951048951049" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="890.6958041958042" y1="190" x2="890.6958041958042" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="891.9965034965035" y1="190" x2="891.9965034965035" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="893.2972027972028" y1="190" x2="893.2972027972028" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="894.5979020979021" y1="190" x2="894.5979020979021" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="895.8986013986013" y1="190" x2="895.8986013986013" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="897.1993006993006" y1="190" x2="897.1993006993006" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="898.4999999999999" y1="190" x2="898.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
@@ -455,8 +455,8 @@
       <!-- Housing -->
       <rect x="864" y="100" width="26" height="80" fill="rgba(0,0,0,0.6)" rx="3" stroke="#1b324f" stroke-width="1.5"/>
       
-      <rect x="868" y="160" width="18" height="8" fill="#2ed573" rx="1"
-        filter="url(#neon-glow)" class="power-led" 
+      <rect x="868" y="160" width="18" height="8" fill="#2c3e50" rx="1"
+         
         style="animation-delay:0.00s"/>
     
     
@@ -522,13 +522,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 643 units
+      ⚡ Dasmat13's Core · 686 units
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      CLK: 110 MHz · STREAK: 11d
+      CLK: 110 MHz · STREAK: 0d
     </text>
   </g>
 
