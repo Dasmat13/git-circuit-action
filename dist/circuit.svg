@@ -434,12 +434,22 @@
       <circle class="led" cx="856.7307692307692" cy="206.85" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:2.2s"/>
     </g>
-  <g class="component"><line x1="866.8846153846154" y1="190" x2="866.8846153846154" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="868.9285714285714" y1="190" x2="868.9285714285714" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="870.9725274725274" y1="190" x2="870.9725274725274" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="873.0164835164835" y1="190" x2="873.0164835164835" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="875.0604395604396" y1="190" x2="875.0604395604396" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="877.1043956043956" y1="190" x2="877.1043956043956" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="879.1483516483516" y1="190" x2="879.1483516483516" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="881.1923076923076" y1="190" x2="881.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="869.0384615384615" y="198" width="10" height="49" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
-        <line x1="874.0384615384615" y1="198" x2="874.0384615384615" y2="201" stroke="#111" stroke-width="1.5"/> <!-- pin 1 notch -->
-        <rect x="870.0384615384615" y="212.7" width="8" height="19.6" fill="#e67e22" opacity="0.8"/>
+  <g class="component"><line x1="866.8846153846154" y1="190" x2="866.8846153846154" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="868.1853146853147" y1="190" x2="868.1853146853147" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="869.486013986014" y1="190" x2="869.486013986014" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="870.7867132867133" y1="190" x2="870.7867132867133" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="872.0874125874126" y1="190" x2="872.0874125874126" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="873.3881118881119" y1="190" x2="873.3881118881119" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="874.6888111888112" y1="190" x2="874.6888111888112" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="875.9895104895105" y1="190" x2="875.9895104895105" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="877.2902097902098" y1="190" x2="877.2902097902098" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="878.590909090909" y1="190" x2="878.590909090909" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="879.8916083916083" y1="190" x2="879.8916083916083" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="881.1923076923076" y1="190" x2="881.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/>
+        <rect x="867.0384615384615" y="198" width="14" height="68" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
+        <rect x="869.0384615384615" y="200" width="10" height="64" fill="#0d0e0f" rx="1"/>
+        <!-- Core silicon dye -->
+        <rect x="872.0384615384615" y="225.2" width="4" height="6" fill="#1abc9c" filter="url(#neon-glow)"/>
+      
+      <circle class="led" cx="874.0384615384615" cy="208.2" r="2" fill="#10ac84" filter="url(#neon-glow)"
+        style="animation-delay:0.0s"/>
+    </g>
+  <g class="component"><line x1="884.1923076923076" y1="190" x2="884.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="898.4999999999999" y1="190" x2="898.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
+        <rect x="888.3461538461538" y="198" width="6" height="30" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
+        <!-- Resistor Color Bands -->
+        <rect x="888.3461538461538" y="204" width="6" height="2" fill="#c0392b"/>
+        <rect x="888.3461538461538" y="213" width="6" height="2" fill="#f1c40f"/>
+        <rect x="888.3461538461538" y="219" width="6" height="2" fill="#27ae60"/>
       </g>
-  
 
   <!-- Side Power Level LED Bar (Contribution Streak) -->
   
@@ -514,13 +524,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 720 units
+      ⚡ Dasmat13's Core · 771 units
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      CLK: 114 MHz · STREAK: 0d
+      CLK: 114 MHz · STREAK: 2d
     </text>
   </g>
 
