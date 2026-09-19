@@ -415,12 +415,12 @@
         style="animation-delay:0.7s"/>
     </g>
   <g class="component"><line x1="780.3461538461538" y1="190" x2="780.3461538461538" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="781.6468531468531" y1="190" x2="781.6468531468531" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="782.9475524475524" y1="190" x2="782.9475524475524" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="784.2482517482517" y1="190" x2="784.2482517482517" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="785.548951048951" y1="190" x2="785.548951048951" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="786.8496503496503" y1="190" x2="786.8496503496503" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="788.1503496503497" y1="190" x2="788.1503496503497" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="789.451048951049" y1="190" x2="789.451048951049" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="790.7517482517483" y1="190" x2="790.7517482517483" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="792.0524475524475" y1="190" x2="792.0524475524475" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="793.3531468531468" y1="190" x2="793.3531468531468" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="794.6538461538461" y1="190" x2="794.6538461538461" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="780.5" y="198" width="14" height="59" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
-        <rect x="782.5" y="200" width="10" height="55" fill="#0d0e0f" rx="1"/>
+        <rect x="780.5" y="198" width="14" height="60" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
+        <rect x="782.5" y="200" width="10" height="56" fill="#0d0e0f" rx="1"/>
         <!-- Core silicon dye -->
-        <rect x="785.5" y="221.6" width="4" height="6" fill="#1abc9c" filter="url(#neon-glow)"/>
+        <rect x="785.5" y="222" width="4" height="6" fill="#00d2ff" filter="url(#neon-glow)"/>
       
-      <circle class="led" cx="787.5" cy="206.85" r="2" fill="#10ac84" filter="url(#neon-glow)"
+      <circle class="led" cx="787.5" cy="207" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:1.0s"/>
     </g>
   <g class="component"><line x1="797.6538461538461" y1="190" x2="797.6538461538461" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="798.9545454545454" y1="190" x2="798.9545454545454" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="800.2552447552447" y1="190" x2="800.2552447552447" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="801.555944055944" y1="190" x2="801.555944055944" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="802.8566433566433" y1="190" x2="802.8566433566433" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="804.1573426573426" y1="190" x2="804.1573426573426" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="805.4580419580419" y1="190" x2="805.4580419580419" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="806.7587412587412" y1="190" x2="806.7587412587412" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="808.0594405594405" y1="190" x2="808.0594405594405" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="809.3601398601397" y1="190" x2="809.3601398601397" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="810.660839160839" y1="190" x2="810.660839160839" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="811.9615384615383" y1="190" x2="811.9615384615383" y2="198" stroke="#bdc3c7" stroke-width="1"/>
@@ -540,13 +540,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 937 units
+      ⚡ Dasmat13's Core · 940 units
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      CLK: 114 MHz · STREAK: 0d
+      CLK: 114 MHz · STREAK: 1d
     </text>
   </g>
 
