@@ -459,7 +459,13 @@
         <path d="M 869.0384615384615,198 L 879.0384615384615,198 L 879.0384615384615,237 C 879.0384615384615,241 869.0384615384615,241 869.0384615384615,237 Z" fill="#111" stroke="#333" stroke-width="0.5"/>
         <rect x="870.0384615384615" y="200" width="8" height="2" fill="#1abc9c"/>
       </g>
-  
+  <g class="component"><line x1="884.1923076923076" y1="190" x2="884.1923076923076" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="898.4999999999999" y1="190" x2="898.4999999999999" y2="198" stroke="#bdc3c7" stroke-width="1"/>
+        <rect x="888.3461538461538" y="198" width="6" height="22" fill="#dfb887" rx="2" stroke="#7f603c" stroke-width="0.8"/>
+        <!-- Resistor Color Bands -->
+        <rect x="888.3461538461538" y="202.4" width="6" height="2" fill="#c0392b"/>
+        <rect x="888.3461538461538" y="209" width="6" height="2" fill="#f1c40f"/>
+        <rect x="888.3461538461538" y="213.4" width="6" height="2" fill="#27ae60"/>
+      </g>
 
   <!-- Side Power Level LED Bar (Contribution Streak) -->
   
@@ -534,7 +540,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 941 units
+      ⚡ Dasmat13's Core · 942 units
     </text>
   </g>
   <g>
