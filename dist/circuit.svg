@@ -397,7 +397,7 @@
         <rect x="693.9615384615385" y="198" width="14" height="72" fill="#1b1c1e" rx="1.5" stroke="#34495e" stroke-width="0.8"/>
         <rect x="695.9615384615385" y="200" width="10" height="68" fill="#0d0e0f" rx="1"/>
         <!-- Core silicon dye -->
-        <rect x="698.9615384615385" y="226.8" width="4" height="6" fill="#9b59b6" filter="url(#neon-glow)"/>
+        <rect x="698.9615384615385" y="226.8" width="4" height="6" fill="#00d2ff" filter="url(#neon-glow)"/>
       
       <circle class="led" cx="700.9615384615385" cy="208.8" r="2" fill="#10ac84" filter="url(#neon-glow)"
         style="animation-delay:2.0s"/>
@@ -455,9 +455,9 @@
         <rect x="801.8076923076923" y="213.4" width="6" height="2" fill="#27ae60"/>
       </g>
   <g class="component"><line x1="814.9615384615385" y1="190" x2="814.9615384615385" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="817.0054945054945" y1="190" x2="817.0054945054945" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="819.0494505494505" y1="190" x2="819.0494505494505" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="821.0934065934066" y1="190" x2="821.0934065934066" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="823.1373626373627" y1="190" x2="823.1373626373627" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="825.1813186813187" y1="190" x2="825.1813186813187" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="827.2252747252747" y1="190" x2="827.2252747252747" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="829.2692307692307" y1="190" x2="829.2692307692307" y2="198" stroke="#bdc3c7" stroke-width="1"/>
-        <rect x="817.1153846153846" y="198" width="10" height="49" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
+        <rect x="817.1153846153846" y="198" width="10" height="47" fill="#222" rx="1" stroke="#444" stroke-width="0.5"/>
         <line x1="822.1153846153846" y1="198" x2="822.1153846153846" y2="201" stroke="#111" stroke-width="1.5"/> <!-- pin 1 notch -->
-        <rect x="818.1153846153846" y="212.7" width="8" height="19.6" fill="#00d2ff" opacity="0.8"/>
+        <rect x="818.1153846153846" y="212.1" width="8" height="18.8" fill="#1abc9c" opacity="0.8"/>
       </g>
   <g class="component"><line x1="832.2692307692307" y1="190" x2="832.2692307692307" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="839.4230769230769" y1="190" x2="839.4230769230769" y2="198" stroke="#bdc3c7" stroke-width="1"/><line x1="846.576923076923" y1="190" x2="846.576923076923" y2="198" stroke="#bdc3c7" stroke-width="1"/>
         <path d="M 834.4230769230769,198 L 844.4230769230769,198 L 844.4230769230769,237 C 844.4230769230769,241 834.4230769230769,241 834.4230769230769,237 Z" fill="#111" stroke="#333" stroke-width="0.5"/>
@@ -554,7 +554,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#1b324f" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      ⚡ Dasmat13's Core · 977 units
+      ⚡ Dasmat13's Core · 974 units
     </text>
   </g>
   <g>
